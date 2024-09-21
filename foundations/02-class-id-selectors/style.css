@@ -3,12 +3,16 @@
     font-style: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.special {
+.contents.cooler {
+    font-size: 24px;
+}
+
+#special {
     color: blue;
     font-size: 36px;
 }
 
-.also-special {
+#also-special {
     background-color: green;
     font-size: 24px;
     font-weight: bold;
