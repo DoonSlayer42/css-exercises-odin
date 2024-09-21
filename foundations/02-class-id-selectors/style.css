@@ -1,0 +1,15 @@
+.contents {
+    background-color: rgb(247, 190, 199);
+    font-style: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.special {
+    color: blue;
+    font-size: 36px;
+}
+
+.also-special {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
